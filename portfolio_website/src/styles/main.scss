@@ -1,0 +1,11 @@
+@import "vuetify/styles";
+@import "typography.scss";
+
+body {
+  margin: 0;
+}
+
+.full-screen-text {
+  font-size: 5rem;
+  z-index: 10;
+}
